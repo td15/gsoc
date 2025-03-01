@@ -1,4 +1,4 @@
-# Ideas Pages
+ Ideas Pages
 
 This is the home page of projects ideas of NumFOCUS for Google Summer of Code 2025.
 Since NumFOCUS is an umbrella organization you will only find links to the ideas
